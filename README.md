@@ -15,3 +15,5 @@ ICANN is aware of internet security. DOD and other agencies are aware of the enc
 
 # Volunteers
 Application ID Project is recruiting volunteers for the project. Please post message to the comment or e-mail john3825(SYSOP). -- Some experience requested....
+
+[![Coverage Status](https://coveralls.io/repos/github/john3825/Application-ID-Project/badge.svg?branch=master)](https://coveralls.io/github/john3825/Application-ID-Project?branch=master)
