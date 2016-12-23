@@ -1,5 +1,3 @@
-# Application-ID-Project
-Application ID Project
 
 # Application ID Project
 Our internet services are established by 1990s which model was from DOD communication system. The problem of the internet is the identifications of websites on internet because the growth usages and the civilian uses of internet cause the internet to be overcrowded. In order to avoid security problems, we come up with Application-ID-Project for the identification of applications by id numbers. The security problems will solve after all applications register and use the application id on all applications because all the registered application id users are secure and others may be harmful. The probability of the security problems will occur from unwanted civilian usages of applications and the registered users can be censored with our Application ID agencies with cyber agents on wire. There could be futuristic penalties for prohibiting usages of unwanted non-registered applications world wide.
