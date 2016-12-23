@@ -21,3 +21,4 @@ Application ID Project is recruiting volunteers for the project. Please post mes
 (https://pledgie.com/campaigns/33131)
 
 [![Coverage Status](https://coveralls.io/repos/github/john3825/Application-ID-Project/badge.svg?branch=master)](https://coveralls.io/github/john3825/Application-ID-Project?branch=master)
+[![Project-License](https://img.shields.io/badge/GitHub_License-GPL3-blue.svg)](https://github.com/john3825/Application-ID-Project/LICENSE.txt)
