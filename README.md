@@ -5,7 +5,7 @@ Our internet services are established by 1990s which model was from DOD communic
 In futuristic stories, ETs or aliens discovery(ies) will come. Then, all applications will be observed by ETs for the future. There are needs for 'Counter Force' to stop application security problems before our alien introductions for government uses.
 
 **Sample:**
-![](Image/Sample_Applicaiton_ID.jpg)
+![](https://github.com/john3825/Application-ID-Project/raw/master/Image/Sample_Applicaiton_ID.JPG)
 
 # Security
 There are more than 200 million viruses on the internet breaching securities. There are more then new 2,000 viruses found daily by antivirus labs. The best manner to solve this issue is to identify the website to secure from the security issues.
