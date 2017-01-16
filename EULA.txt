@@ -11,7 +11,7 @@ This Agreement is a legal agreement between you (either an individual or a singl
 
 If you do not agree to the terms of this Agreement, do not click on the "I Agree" button and do not download or use the Application.
 
-The Application is licensed, not sold, to you by John3825 for use strictly in accordance with the terms of this Agreement. This EULA was created with (TermsFeed).
+The Application is licensed, not sold, to you by John3825 for use strictly in accordance with the terms of this Agreement.
 
 License
 
@@ -45,7 +45,12 @@ By continuing to access or use our Application after any revisions become effect
 
 Governing Law
 
-The laws of Japan, excluding its conflicts of law rules, shall govern this Agreement and your use of the Application. Your use of the Application may also be subject to other local, state, national, or international laws.
+The laws of United States, Japan, and the end users naiton excluding its conflicts of law rules, shall govern this Agreement and your use of the Application. Your use of the Application may also be subject to other local, state, national, or international laws.
+
+Export regulations
+
+You must comply with all the export and re-export restrictions and regulations of United States and the Department of Commerce, and the naiton of the end user. John3825 offers the licensing the application as a ÅgCommercial ItemÅh as U.S. Code of Federal Regulations (see 48 C.F.R. Åò 2.101).
+Any use of the application are prohibited in the nations with the United States embargos or sanctions in force. John3825, the author do not offer anything to risk for the people of the naitons in conflicts or in torubles with the United States. 
 
 Contact Information
 
